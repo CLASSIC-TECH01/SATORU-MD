@@ -7,7 +7,7 @@
  
 
 ##  💀``` Intro```💀
-[![SATORU-MD](https://i.imgur.com/EuvfkRD.mp4)](https://wa.me/2349012316690)
+[![SATORU-MD](https://i.imgur.com/T8W2gRN.jpeg)](https://wa.me/2349012316690)
 </p>
 
      
