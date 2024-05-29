@@ -9,6 +9,8 @@
 ##  💀``` Intro```💀
 [![SATORU-MD](https://ibb.co/M1zXkwy)](https://wa.me/2349012316690)
 </p>
+<img src="https://i.ibb.co/rpBW28K/gojo-satoru-jujutsu-kaisen-protagonist-ltw7vb9t7qr2qspz.gif" alt="gojo-satoru-jujutsu-kaisen-protagonist-ltw7vb9t7qr2qspz" border="0">
+
       <p align="center">
   <a href="https://wa.me//+2349012316690" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
