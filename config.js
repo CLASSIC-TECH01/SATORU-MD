@@ -7,19 +7,19 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['2347045035242', 'STAR-MD', true],
-  ['23433436666', 'Excel✔️', true], 
+  ['2349012316690', 'GM', true],
+  ['2349020598248', 'Vabujee', true], 
   [''] 
 ] //Number of owners
 
-//global.pairingNumber = "2347045035241" //put your bot number here
+//global.pairingNumber = "2349012316690" //put your bot number here
 
 global.mods = ['2347045035241','2348021779696'] 
-global.prems = ['2347045035241', '2348021779696', '2347045038687']
-global.allowed = ['2347045035241', '2348021779696', '2347045038687']
+global.prems = ['2349012316690', '2348021779696', '2347045038687']
+global.allowed = ['2349012316690', '2348021779696', '2347045038687']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
-global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
+global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'GM', 'kurrxd09', 'ebb6251cc00f9c63']
 global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())]
 global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
@@ -50,22 +50,22 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'sᴛᴀʀ-ᴍᴅ-ᴠ2'
+global.botname = 'SATORU-MD'
 global.premium = 'true'
-global.packname = 'sᴛᴀʀ┃ᴮᴼᵀ' 
-global.author = '@Excel' 
+global.packname = 'SATORU|MD' 
+global.author = '@Vabujee' 
 global.menuvid = 'https://i.imgur.com/BPQbguA.mp4'
 global.Channel = 'https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X' 
 global.dygp = 'https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X'
-global.fgsc = 'https://github.com/Xcelsama/STAR-MD-V2' 
+global.fgsc = 'https://github.com/Vabujee/SATORU-MD' 
 global.Channel2 = 'https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X'
-global.Wa = 'https://wa.me/2347045035241'
-global.fglog = 'STAR.jpg' 
-global.thumb = fs.readFileSync('./STAR.jpg')
+global.Wa = 'https://wa.me/2349012316690'
+global.fglog = 'SATORU.jpg' 
+global.thumb = fs.readFileSync('./SATORU.jpg')
 
 
 
-global.wait = '*🕣 _STAR IS  LOADING WAIT..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.wait = '*🕣 _SATORU IS  LOADING WAIT..._*\n*▰▰▰▱▱▱▱▱⭐*'
 global.rwait = '🔜'
 global.dmoji = '⤵️'
 global.done = '☑️'
