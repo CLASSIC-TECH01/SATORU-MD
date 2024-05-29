@@ -7,7 +7,7 @@
  
 
 ##  💀``` Intro```💀
-[![SATORU-MD](https://i.ibb.co/rpBW28K/gojo-satoru-jujutsu-kaisen-protagonist-ltw7vb9t7qr2qspz.gif)](https://wa.me/2349012316690)
+[![SATORU-MD](https://i.imgur.com/EuvfkRD.mp4)](https://wa.me/2349012316690)
 </p>
 
      
