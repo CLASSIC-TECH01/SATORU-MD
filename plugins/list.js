@@ -16,10 +16,10 @@ import {
  const defaultMenu = {
   before: `
  
-*STAR-MD-V2 HAS* *%totalfeatures*  Commands
+*SATORU-MD HAS* *%totalfeatures*  Commands
 
  
-*STAR-MD-V2-COMMAND-LIST*
+*SATORU-MD-COMMAND-LIST*
   
  `.trimStart(),
  header: "",
