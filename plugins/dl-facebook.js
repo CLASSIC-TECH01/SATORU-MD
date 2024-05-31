@@ -15,9 +15,9 @@ const handler = async (m, { conn, args, usedPrefix, command }) => {
   try {
     const result = await fg.fbdl(args[0]);
     const tex = `
-⊱ ─── {* 𝚂𝚃𝙰𝚁 𝙵𝙱𝙳𝙻*} ─── ⊰
+⊱ ─── {* SATORU 𝙵𝙱𝙳𝙻*} ─── ⊰
 ↳ *VIDEO TITLE:* ${result.title}
-𖢏 𝚂𝚃𝙰𝚁-𝙼𝙳-𝚅𝟸 𝙵𝙱 𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍🔍
+𖢏 SATORU-MD 𝙵𝙱 𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍🔍
 ⊱ ────── {⋆♬⋆} ────── ⊰`;
 
     const response = await fetch(result.videoUrl);
