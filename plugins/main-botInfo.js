@@ -46,25 +46,24 @@ let pp = await conn.profilePictureUrl(who, 'image').catch(_ => './STAR.jpg')
 let user = global.db.data.users[who]
   
 let infobt = `
-🌠 *ᏆΝҒϴ:-ՏͲᎪᎡ-ᎷᎠ-Ꮩ2* 🌠
+💀 *ᏆΝҒϴ:-SATORU-MD* 💀
 
 ╭───•••✧ᎠᎬᏙᎬᏞϴᏢᎬᎡ✧••••───╮
 ┃ *≡*. 
-│ ➫「 *ՏͲᎪᎡ-ᎷᎠ-Ꮩ2* 」
-│ ➫ *Name    :* Excel
+│ ➫「 *SATORU-MD* 」
+│ ➫ *Name    :* VABUJEE
 │ ➫ *Place   :* Nigeria
 │ ➫ *Gender  :*  ᴍᴀʟᴇ
-│➫ *Age     :* _15
-│ ➫ *Phone   :* wa.me/2347045035241
+│➫ *Age     :* _16
+│ ➫ *Phone   :* wa.me/2349012316690
 │ ➫ *TT      :*  https://tiktok.com
 /@xcelsama
-│ ➫ *GitHub  :* https://github.com/Xcelsama
-│ ➫ *TT *:- https://tiktok.com/@xcelsama
-│ ➫ *Channel* :https://whatsapp.com/
-channel/0029Va9wmuz8F2pGIURwmo0m
+│ ➫ *GitHub  :* https://github.com/VABUJEE
+│ ➫ *TT *:- https://tiktok.com/@VABUJEE
+│ ➫ *Channel* :https://whatsapp.com/channel/0029VagceWnLtOjCyj005L0A
 │ ➫ *Status  :* ᎠᎬᏴႮᏀᏀᏆΝᏀ ᏟϴᎠᎬ._
 ┃ 
-┃© STAR-MD-V2 BY EXCEL
+┃© SATORU-MD BY VABUJEE
 ⚡ *STATE* ⚡
 ➫ *${groupsIn.length}* GROUP CHATS
 ➫  *${groupsIn.length}* united groups
