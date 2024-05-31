@@ -8,19 +8,19 @@ let handler = async m => m.reply(`
 
 Group1:
 _____________________
-https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK
+https://chat.whatsapp.com/CEXm4pnRnhJIegYZ3IOddC
 _______________________
 
 Group2:
 _______________________
-https://chat.whatsapp.com/FdwbFnI8Fcf4VTVvFTFk08"
+https://chat.whatsapp.com/FfOgoNFUJkBBSu85zF6ny6
 _________________________
 
 *DEVELOPER*/
 
 1:__________________🔰 *MOD'S* 🔰_
-wa.me/2347045035241
-*AMADI EXCEL*
+wa.me/2349012316690
+*VABUJEE*
 _______________________
 𝐋ᶦᵏᵉ  𝐂ᵒᵐᵐᵉⁿᵗ   𝐒ᵃᵛᵉ   𝐒ʰᵃʳᵉ
 💫   🍷   🎊   🍁   🌙   🪄 
@@ -32,10 +32,10 @@ _______________________
 ┊   💛
 ❤️
 *_▬▭▬▭▬▭▬▭▬▭_*
-*╰─ ➤STAR V2*                    
+*╰─ ➤SATORU MD*                    
                      ☟︎︎︎
- *̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊╰─☞︎︎︎STAR-MD-V2
- Excel...... AMADI... .. 
+ *̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊╰─☞︎︎︎SATORU-MD
+ VABUJEE...... 
  ♥️     ✍🏻ㅤ   📩     📤 
  *_ˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ   ˢᵃᵛᵉ    ˢʰᵃʳᵉ_*
 `.trim())
