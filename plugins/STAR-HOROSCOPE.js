@@ -1,4 +1,4 @@
-// Ｇｉｖｅ ｃｒｅｄｉｔｓ ｔｏ @Xcelsama
+// Ｇｉｖｅ ｃｒｅｄｉｔｓ ｔｏ @VABUJEE
 import fetch from 'node-fetch';
 
 var horoscopeHandler = async (m, { conn, args }) => {
