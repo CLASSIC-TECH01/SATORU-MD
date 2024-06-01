@@ -42,7 +42,7 @@ let str = `
   ⚀------- *IPHONE-MENU* ------⚀
 
 ┌─𐂅  *MADE BY DEVNINJA*  𐂅
-| ❁✓  *Creator:* 𝙴𝚇𝙲𝙴𝙻
+| ❁✓  *Creator:* DevNinja
 | 🤖  *Bot Name:* SATORU-MD
 | 💻  *Host:* Linux Lair
 | 📣  *Prefix:* ${usedPrefix} 
