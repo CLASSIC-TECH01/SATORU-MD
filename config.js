@@ -61,7 +61,7 @@ global.fgsc = 'https://github.com/Vabujee/SATORU-MD'
 global.Channel2 = 'https://whatsapp.com/channel/0029VagceWnLtOjCyj005L0A'
 global.Wa = 'https://wa.me/2349012316690'
 global.fglog = 'STAR.jpg' 
-global.thumb = fs.readFileSync('./SATORU.jpg')
+global.thumb = fs.readFileSync('./STAR.jpg')
 
 
 
