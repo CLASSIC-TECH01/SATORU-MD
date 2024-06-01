@@ -41,9 +41,9 @@ let str = `
   ཌ|━━🤖 _BOT STATUS:_🤖━━|ད
   ⚀------- *IPHONE-MENU* ------⚀
 
-┌─𐂅  *MADE BY EXCEL*  𐂅
+┌─𐂅  *MADE BY DEVNINJA*  𐂅
 | ❁✓  *Creator:* 𝙴𝚇𝙲𝙴𝙻
-| 🤖  *Bot Name:* STAR-V2
+| 🤖  *Bot Name:* SATORU-MD
 | 💻  *Host:* Linux Lair
 | 📣  *Prefix:* ${usedPrefix} 
 | 🕓  *Uptime:* ${uptime}
@@ -59,7 +59,7 @@ let str = `
 ┌─𐂅「 *👤USER* 」
 | 👾  *User Tag:* ${taguser} 
 | 😇  *Name:* ${name} 
-| ✰  *Master Mind:* 𝙴𝚇𝙲𝙴𝙻
+| ✰  *Master Mind:* DEVNINJA
 | 💎  *Diamonds:* -9999
 | 🏆  *Rank:* ${role}
 | 🎮  *XP:* ${exp} 
@@ -549,7 +549,7 @@ let str = `
 ┌─➢『 *_conversion_* 』❖
 ┃❏*convert
 ╰─────────────────➢
-XLICON-𝙼𝙳-𝚅𝟸 𝙱𝚈 AB AND SALMAN`
+SATORU-MD 𝙱𝚈 DEVNINJA AND VABUJEE`
 
 
     conn.sendFile(m.chat, pp, 'perfil.jpg', str, m, null, rpyt)
